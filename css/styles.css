@@ -58,7 +58,7 @@ a { text-decoration: none;}
          }
          
         .header-address-link:hover{color: #404BBF;}
-                .header-address-link:focus{#404bbf}
+                .header-address-link:focus{color: #FFF}
 
                  /* ------main---------- */
 
@@ -237,7 +237,7 @@ a { text-decoration: none;}
                  }
 
                 .footer-logo {
-                    color:  #F4F4FD;
+                    color: #F4F4FD;
                         
                 }
 
