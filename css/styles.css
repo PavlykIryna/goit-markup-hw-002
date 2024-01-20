@@ -145,18 +145,13 @@ a { text-decoration: none;}
             background: #FFF;
         }
     
-
-         .portfolio-main-titel {}
-    
-         .portfolio-main {}
-    
-         .portfolio-main-list {}
-    
-         .pic-gallery {}
-    
-         .main-portfolio-titel-list {}
-    
-         .portfolio-main-text {}
+.main-portfolio-titel {color: #2E2F42;
+    text-align: center;
+    font-size: 36px;
+    line-height: 1.1;
+    letter-spacing: 0.02;
+    text-transform: capitalize;}
+         
     
                          /* ----------footer---------- */
 
@@ -170,6 +165,32 @@ a { text-decoration: none;}
                 letter-spacing: 0.54px;
                 text-transform: uppercase;
          }
+
+                 .portfolio-main {}
+
+        
+                 .portfolio-main-list {}
+
+        
+                 .pic-gallery {}
+
+        
+                 .main-portfolio-titel-list {
+                    color: #2E2F42;
+                    font-size: 20px;
+                    font-weight: 500;
+                    line-height: 1.2;
+                    letter-spacing: 0.02em;}
+
+        
+                 .portfolio-main-text {
+                    color: #434455;
+                        font-size: 16px;
+                        font-style: normal;
+                        line-height: 1.5;
+                        letter-spacing: 0.02em;
+                 }
+
                 .footer-logo {
                     color: var(--CLOUD, #F4F4FD);
                         
