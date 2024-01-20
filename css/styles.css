@@ -118,7 +118,7 @@ a { text-decoration: none;}
                 letter-spacing: 0.02em;
          }
     
-         .main-titel {
+         .team-titel {
             color: #2E2F42;
                 text-align: center;
                 font-size: 36px;
@@ -130,10 +130,14 @@ a { text-decoration: none;}
     .team {
         background: #F4F4FD;
     }
+
+
+            
+
          .team-main {background-color: #FFFFFF;}
     
         
-                 .team-main-list {}
+                 .team-main-list {background-color: #FFFFFF;}
 
         
                  .team-main-pic {}
@@ -162,13 +166,37 @@ a { text-decoration: none;}
         .portfolio {
             background: #FFF;
         }
+        
+                .main-portfolio-titel {
+                    color: #2E2F42;
+                    text-align: center;
+                    font-size: 36px;
+                    line-height: 1.1;
+                    letter-spacing: 0.02em;
+                    text-transform: capitalize;
+                }
+                .portfolio-main {}
+        
+                .portfolio-main-list {}
+        
+                .portfolio-main-pic {}
+        
+                .portfolio-main-titel {
+                    color: #2E2F42;
+                        font-size: 20px;
+                        font-weight: 500;
+                        line-height: 1.2;
+                        letter-spacing: 0.02em;
+                }
+        
+                .portfolio-main-text {
+                    color: #434455;
+                        font-size: 16px;
+                        line-height: 1.5;
+                        letter-spacing: 0.02em;
+                }
     
-.main-portfolio-titel {color: #2E2F42;
-    text-align: center;
-    font-size: 36px;
-    line-height: 1.1;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;}
+
          
     
                          /* ----------footer---------- */
